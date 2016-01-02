@@ -1,0 +1,71 @@
+ToYTMainIntent play
+ToYTMainIntent game
+ToYTMainIntent play a game
+ToYTMainIntent play a new game
+ToYTMainIntent start a game
+ToYTMainIntent start a new game
+ToYTMainIntent can you start a new game
+ToYTMainIntent please start a game
+ToYTMainIntent can you start a game
+ToYTMainIntent please start a game
+ToYTMainIntent I'd like to play a new game
+ToYTMainIntent I'd like to start a new game
+ToYTMainIntent I'd like to play a new game
+ToYTMainIntent I'd like to start a new game
+ToYTMainIntent a game
+ToYTMainIntent a new game
+ToYTMainIntent play a round
+ToYTMainIntent play a new round
+ToYTMainIntent start a round
+ToYTMainIntent start a new round
+
+ToYTSettingsIntent {Setting}
+ToYTSettingsIntent {Setting} game
+ToYTSettingsIntent new {Setting} game
+ToYTSettingsIntent {Setting} round
+ToYTSettingsIntent new {Setting} round
+ToYTSettingsIntent play a {Setting} game
+ToYTSettingsIntent play a {Setting} round
+ToYTSettingsIntent play a new {Setting} game
+ToYTSettingsIntent play a new {Setting} round
+ToYTSettingsIntent start a {Setting} game
+ToYTSettingsIntent start a {Setting} round
+ToYTSettingsIntent start a new {Setting} game
+ToYTSettingsIntent start a new {Setting} round
+ToYTSettingsIntent I'd like a {Setting} game
+ToYTSettingsIntent I want a {Setting} game
+ToYTSettingsIntent give me a {Setting} game
+
+ToYTCustomQuestionCountIntent {QuestionCount}
+ToYTCustomQuestionCountIntent {QuestionCount} questions
+ToYTCustomQuestionCountIntent play a custom game {QuestionCount}
+ToYTCustomQuestionCountIntent play a custom game {QuestionCount} questions
+ToYTCustomQuestionCountIntent play a custom game with {QuestionCount} questions
+ToYTCustomQuestionCountIntent start a custom game {QuestionCount}
+ToYTCustomQuestionCountIntent start a custom game {QuestionCount} questions
+ToYTCustomQuestionCountIntent start a custom game with {QuestionCount} questions
+ToYTCustomQuestionCountIntent custom game {QuestionCount}
+ToYTCustomQuestionCountIntent custom game {QuestionCount} questions
+ToYTCustomQuestionCountIntent custom game with {QuestionCount} questions
+ToYTCustomQuestionCountIntent I want a custom game with {QuestionCount} questions
+ToYTCustomQuestionCountIntent get me a custom game with {QuestionCount} questions
+ToYTCustomQuestionCountIntent start a {QuestionCount} question game
+ToYTCustomQuestionCountIntent play a {QuestionCount} question game
+ToYTCustomQuestionCountIntent begin a {QuestionCount} question game
+
+ToYTCustomDifficultyIntent {CustomDifficulty}
+ToYTCustomDifficultyIntent {CustomDifficulty} difficulty
+ToYTCustomDifficultyIntent I'd like a {CustomDifficulty} game
+ToYTCustomDifficultyIntent give me a {CustomDifficulty} game
+
+ToYTRulesIntent rules
+ToYTRulesIntent rulebook
+ToYTRulesIntent instructions
+ToYTRulesIntent the rules
+ToYTRulesIntent the rulebook
+ToYTRulesIntent the instructions
+ToYTRulesIntent what are the rules
+ToYTRulesIntent tell me the rules
+ToYTRulesIntent please get me the rules
+ToYTRulesIntent how do I play
+ToYTRulesIntent what do we do

@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "ToYTMainIntent"
+    },
+    {
+      "intent": "ToYTSettingsIntent",
+      "slots": [
+        {
+          "name": "Setting",
+          "type": "TOYT_SETTINGS"
+        }
+      ]
+    },
+    {
+      "intent": "ToYTCustomQuestionCountIntent",
+      "slots": [
+        {
+          "name": "QuestionCount",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ToYTCustomDifficultyIntent",
+      "slots": [
+        {
+          "name": "CustomDifficulty",
+          "type": "TOYT_DIFFICULTY"
+        }
+      ]
+    },
+    {
+      "intent": "ToYTRulesIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
